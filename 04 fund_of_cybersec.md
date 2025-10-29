@@ -26,5 +26,5 @@ An "HR Manager" role can view employee data while "Employee" role can only view 
 # Best Practices
 - Use Strong, unique passwords.
 - Apply MFA whereever possible.
-- Review role-based permissions regularl.
+- Review role-based permissions regularly.
 - Log all authentication and access event.
